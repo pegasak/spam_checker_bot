@@ -1,0 +1,5 @@
+aiogram
+telethon
+rarfile
+aiofiles
+python-dotenv
